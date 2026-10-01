@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+# Registros
+*.log
+npm-debug.log*
+# Entorno
+.env
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+# Editores
+.vscode/
+.idea/
