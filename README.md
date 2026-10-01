@@ -78,3 +78,4 @@ El servidor manda en las fases, la colocación de objetos y el puntaje. Cada nav
 El servidor de Node escucha en `127.0.0.1:3100`. Para publicarlo, pon delante un proxy inverso (por ejemplo Nginx) que reenvíe una ruta como `/bandera/` y deje pasar las cabeceras de WebSocket (`Upgrade` y `Connection`). En el repositorio `juegardo-deploy` hay una configuración de ejemplo y scripts de instalación.
 # Chapa-la-bandera-juego-web-multijugador
 # Chapa-la-bandera-juego-web-multijugador
+# Chapa-la-bandera-juego-web-multijugador
